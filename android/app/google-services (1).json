@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "375118321042",
+    "project_id": "fire-auth-458f1",
+    "storage_bucket": "fire-auth-458f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375118321042:android:ca774eb7c4311f74df9d4b",
+        "android_client_info": {
+          "package_name": "com.allievo.timagraios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaSSKnGSHRpN-MLF2WJYdprwXHjqAEUhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375118321042:android:23444065e1742c75df9d4b",
+        "android_client_info": {
+          "package_name": "com.example.fire_auth_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaSSKnGSHRpN-MLF2WJYdprwXHjqAEUhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375118321042:android:a9ba30518db96df4df9d4b",
+        "android_client_info": {
+          "package_name": "com.example.timagra_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaSSKnGSHRpN-MLF2WJYdprwXHjqAEUhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
